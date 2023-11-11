@@ -1,0 +1,15 @@
+/Users/macbook/Projects/Шаблони/Task4/bin/Debug/net7.0/Task4
+/Users/macbook/Projects/Шаблони/Task4/bin/Debug/net7.0/Task4.deps.json
+/Users/macbook/Projects/Шаблони/Task4/bin/Debug/net7.0/Task4.runtimeconfig.json
+/Users/macbook/Projects/Шаблони/Task4/bin/Debug/net7.0/Task4.dll
+/Users/macbook/Projects/Шаблони/Task4/bin/Debug/net7.0/Task4.pdb
+/Users/macbook/Projects/Шаблони/Task4/obj/Debug/net7.0/Task4.csproj.AssemblyReference.cache
+/Users/macbook/Projects/Шаблони/Task4/obj/Debug/net7.0/Task4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/Шаблони/Task4/obj/Debug/net7.0/Task4.AssemblyInfoInputs.cache
+/Users/macbook/Projects/Шаблони/Task4/obj/Debug/net7.0/Task4.AssemblyInfo.cs
+/Users/macbook/Projects/Шаблони/Task4/obj/Debug/net7.0/Task4.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/Шаблони/Task4/obj/Debug/net7.0/Task4.dll
+/Users/macbook/Projects/Шаблони/Task4/obj/Debug/net7.0/refint/Task4.dll
+/Users/macbook/Projects/Шаблони/Task4/obj/Debug/net7.0/Task4.pdb
+/Users/macbook/Projects/Шаблони/Task4/obj/Debug/net7.0/Task4.genruntimeconfig.cache
+/Users/macbook/Projects/Шаблони/Task4/obj/Debug/net7.0/ref/Task4.dll

@@ -1,0 +1,15 @@
+/Users/macbook/Projects/Шаблони/Шаблони/bin/Debug/net7.0/Шаблони
+/Users/macbook/Projects/Шаблони/Шаблони/bin/Debug/net7.0/Шаблони.deps.json
+/Users/macbook/Projects/Шаблони/Шаблони/bin/Debug/net7.0/Шаблони.runtimeconfig.json
+/Users/macbook/Projects/Шаблони/Шаблони/bin/Debug/net7.0/Шаблони.dll
+/Users/macbook/Projects/Шаблони/Шаблони/bin/Debug/net7.0/Шаблони.pdb
+/Users/macbook/Projects/Шаблони/Шаблони/obj/Debug/net7.0/Шаблони.csproj.AssemblyReference.cache
+/Users/macbook/Projects/Шаблони/Шаблони/obj/Debug/net7.0/Шаблони.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/Шаблони/Шаблони/obj/Debug/net7.0/Шаблони.AssemblyInfoInputs.cache
+/Users/macbook/Projects/Шаблони/Шаблони/obj/Debug/net7.0/Шаблони.AssemblyInfo.cs
+/Users/macbook/Projects/Шаблони/Шаблони/obj/Debug/net7.0/Шаблони.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/Шаблони/Шаблони/obj/Debug/net7.0/Шаблони.dll
+/Users/macbook/Projects/Шаблони/Шаблони/obj/Debug/net7.0/refint/Шаблони.dll
+/Users/macbook/Projects/Шаблони/Шаблони/obj/Debug/net7.0/Шаблони.pdb
+/Users/macbook/Projects/Шаблони/Шаблони/obj/Debug/net7.0/Шаблони.genruntimeconfig.cache
+/Users/macbook/Projects/Шаблони/Шаблони/obj/Debug/net7.0/ref/Шаблони.dll

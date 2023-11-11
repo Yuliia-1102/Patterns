@@ -1,0 +1,15 @@
+/Users/macbook/Projects/Шаблони/Task2/bin/Debug/net7.0/Task2
+/Users/macbook/Projects/Шаблони/Task2/bin/Debug/net7.0/Task2.deps.json
+/Users/macbook/Projects/Шаблони/Task2/bin/Debug/net7.0/Task2.runtimeconfig.json
+/Users/macbook/Projects/Шаблони/Task2/bin/Debug/net7.0/Task2.dll
+/Users/macbook/Projects/Шаблони/Task2/bin/Debug/net7.0/Task2.pdb
+/Users/macbook/Projects/Шаблони/Task2/obj/Debug/net7.0/Task2.csproj.AssemblyReference.cache
+/Users/macbook/Projects/Шаблони/Task2/obj/Debug/net7.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/Шаблони/Task2/obj/Debug/net7.0/Task2.AssemblyInfoInputs.cache
+/Users/macbook/Projects/Шаблони/Task2/obj/Debug/net7.0/Task2.AssemblyInfo.cs
+/Users/macbook/Projects/Шаблони/Task2/obj/Debug/net7.0/Task2.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/Шаблони/Task2/obj/Debug/net7.0/Task2.dll
+/Users/macbook/Projects/Шаблони/Task2/obj/Debug/net7.0/refint/Task2.dll
+/Users/macbook/Projects/Шаблони/Task2/obj/Debug/net7.0/Task2.pdb
+/Users/macbook/Projects/Шаблони/Task2/obj/Debug/net7.0/Task2.genruntimeconfig.cache
+/Users/macbook/Projects/Шаблони/Task2/obj/Debug/net7.0/ref/Task2.dll
